@@ -11,9 +11,9 @@
   <a href="https://linkedin.com/in/k-sai-sri-lekha" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/sri_lekhaaaa" target="blank">
+  <!-- <a href="https://www.leetcode.com/sri_lekhaaaa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
